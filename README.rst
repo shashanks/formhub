@@ -53,7 +53,7 @@ Make directory structure and clone formhub:
 
     $ mkdir -p ~/src/formhub-app
     $ cd ~/src/formhub-app
-    $ git clone git://github.com/modilabs/formhub.git
+    $ git clone git://github.com/shashanks/formhub.git
     $ git submodule init
     $ git submodule update
 
